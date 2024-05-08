@@ -1,6 +1,6 @@
 torch>=2
 torchaudio>=2
-git+https://github.com/suminhthanh/faster-whisper.git
+faster-whisper @ git+https://github.com/suminhthanh/faster-whisper.git
 transformers
 pandas
 setuptools>=65
